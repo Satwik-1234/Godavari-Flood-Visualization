@@ -61,7 +61,7 @@ Processing large river basins often causes GEE `User Memory Limit Exceeded` erro
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Satwik K. Udupi**
 *Hydraulic Modeler & Geospatial Developer*
 
-*Specializing in large-scale catchment analysis and remote sensing algorithms.*
+*Specialising in large-scale catchment analysis and remote sensing algorithms.*
